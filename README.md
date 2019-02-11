@@ -104,11 +104,11 @@ int main()
 
 1).Berikut Flowchatnya
 
-![img](
+![img](https://github.com/fahmieka21/pratikum09/blob/master/flowchart1.png)
 
 2).Berikut Screenshotnya:
 
-![img](
+![img](https://github.com/fahmieka21/pratikum09/blob/master/latihan1.png)
 
 # Latihan 2 (Program menentukan modus dari n bilangan bulat)
 
@@ -273,10 +273,13 @@ return 0;
 
 ```
 
+1).Berikut Flowchatnya
+
+![img](https://github.com/fahmieka21/pratikum09/blob/master/flowchart2.png)
 
 2).Berikut Screenshotnya:
 
-![img](
+![img](https://github.com/fahmieka21/pratikum09/blob/master/latihan2.png)
 
 # Latihan3 Perkalian Matriks
 
@@ -458,5 +461,6 @@ int main()
 
 3).Berikut Screenshotnya:
 
-![img](
+![img](https://github.com/fahmieka21/pratikum09/blob/master/latihan3.png)
+![img](https://github.com/fahmieka21/pratikum09/blob/master/latihan4.png)
 
